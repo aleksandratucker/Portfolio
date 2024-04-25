@@ -2,7 +2,7 @@
 
 [Ссылка на проект, ipynb](https://github.com/aleksandratucker/Portfolio/blob/main/Public%20Catering/public_catering.ipynb)
 
-Для использования интерактивного оглавления и отображения визуализаций, построенных с помощью Plotly и Folium: [ссылка на проект, nbviewer](https://nbviewer.org/github/aleksandratucker/Portfolio/blob/main/Business%20indicators%20%28app%29/app_analysis_of_business_indicators.ipynb#db-bullet)
+Для использования интерактивного оглавления и отображения визуализаций, построенных с помощью Plotly и Folium: <br/> [ссылка на проект, nbviewer](https://nbviewer.org/github/aleksandratucker/Portfolio/blob/main/Business%20indicators%20%28app%29/app_analysis_of_business_indicators.ipynb#db-bullet)
 
 ## Описание проекта
 
