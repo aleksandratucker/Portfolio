@@ -2,7 +2,7 @@
 
 [Ссылка на проект, ipynb](https://github.com/aleksandratucker/Portfolio/blob/main/01%20Business%20indicators%20(app)/app_analysis_of_business_indicators.ipynb)
 
-Для удобства чтения проекта и использования интерактивного оглавления: [ссылка на проект, nbviewer](https://nbviewer.org/github/aleksandratucker/Portfolio/blob/main/01%20Business%20indicators%20%28app%29/app_analysis_of_business_indicators.ipynb#eb-bullet)
+Для удобства чтения проекта и использования интерактивного оглавления: [ссылка на проект, nbviewer](https://nbviewer.org/github/aleksandratucker/Portfolio/blob/main/01%20Business%20indicators%20%28app%29/app_analysis_of_business_indicators.ipynb)
 
 ## Цель проекта
 
@@ -33,7 +33,7 @@
   
 **Нашла достойную альтернативу для США - канал RocketSuperAds**
 
-- пользователи, привлеченные с помощью этого канала хорошо удерживаются
+- пользователи, привлеченные с помощью этого канала хорошо удерживаются.
 - у этого канала хорошие показатели конверсии.
 - реклама на RocketSuperAds отлично окупается в двухнедельном лайфтайме.
 - Стоимость привлечения новых пользователей за 4 месяца уменьшилась в два раза.
