@@ -1,6 +1,6 @@
 # Анализ бизнес-показателей приложения Procrastinate Pro+
 
-[Ссылка на проект, ipynb](https://github.com/aleksandratucker/Portfolio/blob/5673d05055177e833df930129df0bee82c6fe100/Business%20indicators%20(app)/app_analysis_of_business_indicators.ipynb)
+[Ссылка на проект, ipynb](https://github.com/aleksandratucker/Portfolio/blob/main/01%20Business%20indicators%20(app)/app_analysis_of_business_indicators.ipynb)
 
 Для удобства чтения проекта и использования интерактивного оглавления: [ссылка на проект, nbviewer](https://nbviewer.org/github/aleksandratucker/Portfolio/blob/main/Business%20indicators%20%28app%29/app_analysis_of_business_indicators.ipynb#db-bullet)
 
