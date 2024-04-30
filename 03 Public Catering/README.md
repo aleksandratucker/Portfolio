@@ -1,6 +1,6 @@
 # Исследование рынка заведений общественного питания Москвы
 
-[Ссылка на проект, ipynb](https://github.com/aleksandratucker/Portfolio/blob/main/Public%20Catering/public_catering.ipynb)
+[Ссылка на проект, ipynb](https://github.com/aleksandratucker/Portfolio/blob/7c0f510a28759e1a5b37f45ff3e3f7d6324a912e/03%20Public%20Catering/public_catering.ipynb)
 
 Для использования интерактивного оглавления и отображения визуализаций, построенных с помощью Plotly и Folium: <br/> [ссылка на проект, nbviewer](https://nbviewer.org/github/aleksandratucker/Portfolio/blob/main/Public%20Catering/public_catering.ipynb)
 
