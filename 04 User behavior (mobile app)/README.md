@@ -2,7 +2,7 @@
 
 [Ссылка на проект, ipynb](https://github.com/aleksandratucker/Portfolio/blob/main/04%20User%20behavior%20(mobile%20app)/analysis_of_user_behavior_app.ipynb)
 
-Для использования интерактивного оглавления  и отображения визуализаций, построенных с помощью Plotly: <br/> [ссылка на проект, nbviewer](https://nbviewer.org/github/aleksandratucker/Portfolio/blob/main/User%20behavior%20%28mobile%20app%29/analysis_of_user_behavior_app.ipynb)
+Для использования интерактивного оглавления  и отображения визуализаций, построенных с помощью Plotly: <br/> [ссылка на проект, nbviewer](https://nbviewer.org/github/aleksandratucker/Portfolio/blob/main/04%20User%20behavior%20%28mobile%20app%29/analysis_of_user_behavior_app.ipynb)
 
 ## Цель проекта
 
