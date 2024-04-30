@@ -2,7 +2,7 @@
 
 [Ссылка на проект, ipynb](https://github.com/aleksandratucker/Portfolio/blob/main/01%20Business%20indicators%20(app)/app_analysis_of_business_indicators.ipynb)
 
-Для удобства чтения проекта и использования интерактивного оглавления: [ссылка на проект, nbviewer](https://nbviewer.org/github/aleksandratucker/Portfolio/blob/main/Business%20indicators%20%28app%29/app_analysis_of_business_indicators.ipynb#db-bullet)
+Для удобства чтения проекта и использования интерактивного оглавления: [ссылка на проект, nbviewer](https://nbviewer.org/github/aleksandratucker/Portfolio/blob/main/01%20Business%20indicators%20%28app%29/app_analysis_of_business_indicators.ipynb#eb-bullet)
 
 ## Цель проекта
 
