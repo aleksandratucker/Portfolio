@@ -1,6 +1,6 @@
 # Проверка гипотез по увеличению выручки в интернет-магазине
 
-[Ссылка на проект, ipynb](https://github.com/aleksandratucker/Portfolio/blob/main/Increasing%20online%20store%20revenue/increasing_revenue_online_store.ipynb)
+[Ссылка на проект, ipynb](https://github.com/aleksandratucker/Portfolio/blob/main/02%20Increasing%20online%20store%20revenue/increasing_revenue_online_store.ipynb)
 
 Для удобства чтения проекта и использования интерактивного оглавления: [ссылка на проект, nbviewer](https://nbviewer.org/github/aleksandratucker/Portfolio/blob/main/Increasing%20online%20store%20revenue/increasing_revenue_online_store.ipynb)
 
